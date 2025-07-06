@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/danilat-mcp-dndzgz-badge.png)](https://mseep.ai/app/danilat-mcp-dndzgz)
+
 # DNDzgz MCP Server
 
 This is an MCP (Model Context Protocol) server that provides information about the Zaragoza tram system, including real-time tram arrival estimations and station information using the [DNDzgz](https://www.dndzgz.com/) API.
